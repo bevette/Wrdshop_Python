@@ -5,3 +5,4 @@ Python Learning Plan
 3. Look in to pandas library
 4. Add signal processing goals
 5. Advanced python features
+6. Import csv spreadsheets
